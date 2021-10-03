@@ -52,10 +52,12 @@ dependencies:
   dotted_border: ^2.0.0
   shared_preferences: ^2.0.6
   url_launcher: ^6.0.9
-  
-  
+  firebase_messaging: ^10.0.4
+  flutter_local_notifications: ^5.0.0+4
+  loading_indicator: ^2.0.1
+  auto_size_text: ^2.1.0
+  cached_network_image: ^3.1.0
 
-  
 
 
 dev_dependencies:
